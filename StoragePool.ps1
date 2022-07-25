@@ -237,7 +237,7 @@ function get-StoragePoolData($LogPath, $XperfDirPath) {
                     }
                 }
 
-                deafult { "Enter the valid option" }
+                default { "Enter the valid option" }
 
             }
 
